@@ -1,0 +1,5 @@
+numpy==1.21.5
+tensorflow==1.15
+opencv-python==4.1.2.30
+tqdm==4.62.3
+glob2==0.7
