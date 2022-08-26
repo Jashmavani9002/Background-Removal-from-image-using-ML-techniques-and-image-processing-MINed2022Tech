@@ -35,4 +35,4 @@ $pip install -r requirements.txt
 - Download pretrained model(DeepLabv3+) here: https://drive.google.com/file/d/1a0X_GMVu4vPDUo1Tcoa75_gPZWaU5uZk/view?usp=sharing
 
  <h3>DEEPLABV3+</h3>
-    <img src='Test_Output/3365299889_028.png'>
+    <img src='Output/3365299889_028.png'>
