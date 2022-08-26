@@ -55,3 +55,6 @@ $pip install rembg[gpu]
 ### - Using Threadpool
     - Applying Threadpool executor using more workers parallely
     - It depends on CPU performance
+
+<h3>REMBG Output</h3>
+    <img src='REMBG/sample_outputs/HS.png'>
