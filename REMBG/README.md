@@ -57,4 +57,4 @@ $pip install rembg[gpu]
     - It depends on CPU performance
 
 <h3>REMBG Output</h3>
-    <img src='REMBG/sample_outputs/HS.png'>
+    <img src='sample_outputs/HS.png'>
