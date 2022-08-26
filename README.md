@@ -7,7 +7,7 @@ Background Removal from image using ML techniques and image processing
 
  <p>
     <h3>REMBG Output</h3>
-    <img src='data/training.png'>
+    <img src='REMBG/sample_outputs/HS.png'>
     <br>
     <br>
     <h3>DEEPLABV3+</h3>
