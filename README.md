@@ -10,6 +10,6 @@ Background Removal from image using ML techniques and image processing
     <img src='data/training.png'>
     <br>
     <br>
-    <h3>Prediction</h3>
-    <img src='data/prediction.png'>
+    <h3>DEEPLABV3+</h3>
+    <img src='Test_Output/3365299889_028.png'>
 </p>	
