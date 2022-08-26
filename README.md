@@ -15,5 +15,5 @@ Image segmentation has helped to solve a variety of difficult problems. One such
     <br>
     <br>
     <h3>DEEPLABV3+</h3>
-    <img src='Test_Output/3365299889_028.png'>
+    <img src='Output/3365299889_028.png'>
 </p>	
